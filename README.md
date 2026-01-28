@@ -22,7 +22,7 @@ $$u(0) = u^{\prime}\left(\frac{\pi}{8}\right) = 0$$
 ## 使用说明
 
 1. 运行 `Fem_class.m` 设置方程参数。
-2. 调用 `Fun_fem_1.m` 或 `Fun_fem_2.m` 进行求解。
+2. 调用 `Fun_fem.m` 进行求解。
 3. 使用 `Error_compute.m` 计算误差。
 4. 使用 `Convergence_order_compute.m` 计算收敛阶。
 5. 使用 `Figure_make.m` 生成图像。
