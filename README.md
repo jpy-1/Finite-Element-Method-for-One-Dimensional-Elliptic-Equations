@@ -1,5 +1,5 @@
 # Finite-Element-Method-for-One-Dimensional-Elliptic-Equations
-## Using polynomial functions as basis functions, including both linear and quadratic element methods, and taking the one-dimensional elliptic equation as an example, the error calculation and convergence order verification are computed and presented.
+## 采用多项式函数作为基函数，涵盖线性元与二次元两种方法，并以一维椭圆方程为例，完成了误差计算与收敛阶验证，并给出相应结果。
 ## The following is the solution to the equation：
 ### equation
 $$
